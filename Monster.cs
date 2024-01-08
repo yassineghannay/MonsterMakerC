@@ -73,6 +73,14 @@ namespace ExquisiteCorpse
       Console.WriteLine("    |  Y  |");
       Console.WriteLine("   /   |   \\");
       Console.WriteLine("   \"\"\"\" \"\"\"\"");
+// CREATE MORE FUNCTIONS FOR MORE SCARY MONSTERS :)))))
     }
+    static void RandomPart() 
+    {
+      Console.WriteLine("    UWU");
+      Console.WriteLine("    UWU");
+      Console.WriteLine("    UWU");
+    }
+    
   }
 }
