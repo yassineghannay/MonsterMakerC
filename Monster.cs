@@ -6,6 +6,7 @@ namespace ExquisiteCorpse
   {
     static void Main(string[] args)
     {
+      Console.WriteLine("A spooky monster appears !!!");
       MonsterHead();
       GhostBody();
       BugFeet();
